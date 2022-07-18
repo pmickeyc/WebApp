@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="xmlStyle.xsl"?>
+
+<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="XML.xsd">
+    <product code = "123-12">  
+        <category>text</category>
+        <name>text</name>
+        <description>text</description>
+        <quantity>1</quantity>
+        <unitPrice>0.00</unitPrice>
+    </product>
+    <product code = "123-12">  
+        <category>text</category>
+        <name>text</name>
+        <description>text</description>
+        <quantity>1</quantity>
+        <unitPrice>0.00</unitPrice>
+    </product>
+    <product code = "123-12">  
+        <category>text</category>
+        <name>text</name>
+        <description>text</description>
+        <quantity>1</quantity>
+        <unitPrice>0.00</unitPrice>
+    </product>
+</products>
